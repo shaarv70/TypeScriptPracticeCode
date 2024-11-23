@@ -1,4 +1,4 @@
-/* Type assertion is a way to tell the TS compiler that the suer knows more about the type
+/* Type assertion is a way to tell the TS compiler that the user knows more about the type
 of a value than it does */
 
 

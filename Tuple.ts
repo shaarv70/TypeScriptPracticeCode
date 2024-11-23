@@ -5,7 +5,7 @@
 
 let person: [string,number]=["Arvind",200];  //we can give only one string and one number at the time of initialization
 person.push("Meow",67);// this is acceptable in tuple
-console.log(person);
+console.log(person); //it will store all 4 values now  and maintains order
 
 let user:[string,number,boolean]=["Arvind",12,true];
 

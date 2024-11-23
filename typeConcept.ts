@@ -26,9 +26,9 @@ let country:undefined= undefined;
 
 
 //any (any kind of data)
-let value:any =80;
-value="Test";
-value=true;
+let value1:any =80;
+value1="Test";
+value1=true;
 
 //void  (generally used with function, doest not return any value)
 
@@ -47,11 +47,11 @@ function getAnyValue():any{  // -- return any kind of value
 }
 
 
-/* function addition(a,b){  // throws error
+/* /* function addition(a,b){  // throws error
 
     return a+b;   // -- type inference will be applied as number
-} */
-//console.log(addition(20,30));
+} 
+console.log(addition(20,30)); */
 
 
 //name :add

@@ -19,6 +19,8 @@ let val:Array<string | boolean>=[true,"atiug",false]
 
 let users:Array<string>
 users=["Peter","Arvind","gikti"];
+users.push("Maya");
+
 
 //iterate the array
 for(let i=0;i<users.length;i++)
