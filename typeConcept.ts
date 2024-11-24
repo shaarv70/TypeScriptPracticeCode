@@ -57,7 +57,7 @@ console.log(addition(20,30)); */
 //name :add
 //params: a(number), b(number)
 // return type:number
-function add(a:number, b:number):number
+function addition(a:number, b:number):number
 {
     return a+b;
 }
