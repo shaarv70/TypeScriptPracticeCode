@@ -50,9 +50,9 @@ const myfunction=function(){
 myfunction();
 
 
-let mysum=function(a:number,b:number):number{
+let mysum=function(a:number,b:number){
 
-    return a+b;
+    return a+b as number;   //we can write in this way also
 }
 
 console.log(mysum(2,3));
