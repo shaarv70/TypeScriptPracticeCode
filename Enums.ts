@@ -77,3 +77,4 @@ enum Status{
 console.log(Status.ACTIVE);
 console.log(Status.DEACTIVE);
 console.log(Status.PENDING);
+console.log(Status);
