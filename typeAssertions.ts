@@ -7,6 +7,7 @@ of a value than it does */
 
 let total:any=123;
 let finalSum=<number>total +200;   // kind of typecasting;
+
 console.log(finalSum);
 
 
@@ -16,6 +17,7 @@ console.log(finalSum);
 let someValue:any="hello this is arvind";
 let mylength=(someValue as string).length;
 console.log(mylength);
+let mySum=total as number +300
 
 
 let flag:any = true;
