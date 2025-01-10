@@ -26,3 +26,4 @@ console.log(add(12,30));
 console.log(add(true,true)); 
 
 
+//Note: constructor overloading is not suppported in ts

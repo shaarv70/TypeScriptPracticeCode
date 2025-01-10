@@ -24,7 +24,7 @@ value = "Hello, TypeScript!";
 value = 42; // Can assign any type to `unknown`
 
 // Error: Cannot perform operations directly on `unknown`
-// console.log(value.toUpperCase());
+ //console.log(value.toUpperCase());
 
 // Use Type Narrowing
 if (typeof value === "string") {
